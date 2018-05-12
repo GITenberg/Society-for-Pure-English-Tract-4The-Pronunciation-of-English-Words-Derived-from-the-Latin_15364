@@ -1,0 +1,38 @@
+_repo: Society-for-Pure-English-Tract-4The-Pronunciation-of-English-Words-Derived-from-the-Latin_15364
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Bradley, Henry
+    birthdate: 1845
+    deathdate: 1923
+    gutenberg_agent_id: '33768'
+    url: http://www.gutenberg.org/2009/agents/33768
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sargeaunt, John
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '6017'
+    url: http://www.gutenberg.org/2009/agents/6017
+description: ''
+gutenberg_issued: '2005-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15364'
+  lccn: '21010703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Pronunciation'
+- !lcsh 'Latin language -- Influence on English'
+- !lcc 'PE'
+- !lcsh 'English language -- Foreign words and phrases -- Latin'
+title: 'Society for Pure English Tract 4
+
+  The Pronunciation of English Words Derived from the Latin'
+url: http://www.gutenberg.org/ebooks/15364
